@@ -1,5 +1,5 @@
 ### Hello there! Benjamin Ting here!
-### I am a Game Engineering Student, Freelance Graphic Designer & Food Fanatic.
+### I am a Game Engineering Student, Freelance Graphic Designer, Marketer & Food Fanatic.
 - 😄 Pronouns: He/Him/His
 - 🌎 Location: Stockholm, Sweden & occasionally Singapore
 - ☂️ Does not believe in umbrellas
