@@ -1,5 +1,5 @@
 ### Hello there! Benjamin Ting here!
-### I am a Game Programming Student, Freelance Graphic Designer, Marketer & Food Fanatic.
+### I am a Game Programmer, Freelance Graphic Designer, Marketer & Food Fanatic.
 - 😄 Pronouns: He/Him/His
 - 🌎 Location: Stockholm, Sweden & occasionally Singapore
 - 💼 Work: Game Programmer at WeKnowIT
