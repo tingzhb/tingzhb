@@ -26,14 +26,21 @@
 <br>
 
 ### 🛠️ My Technology Stack:
-<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img align="left" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-<img align="left" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
-<img align="left" alt="premierpro" src="https://aleen42.github.io/badges/src/premiere.svg" />
+<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
+<img align="left" alt="csharp" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+<img align="left" alt="csharp" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+<img align="left" alt="csharp" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+<img align="left" alt="csharp" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
+
+
+<img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" />
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)" />
+<img align="left" alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+<img align="left" alt="unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
+<img align="left" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black" />
+<img align="left" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
+<img align="left" alt="illustrator" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?logo=adobeindesign&logoColor=white" />
+<img align="left" alt="premierpro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white" />
 
 
 
