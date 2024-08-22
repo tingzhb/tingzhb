@@ -21,8 +21,7 @@
 <br>
 
 ### 🌐 My Website & Portfolio:
-#### [BenjaminTing.com](http://benjaminting.com/) [<img align="null" alt="website" src="https://img.shields.io/website-up-down-green-red/http/benjaminting.com.svg" />](http://benjaminting.com/)
-
+#### [BenjaminTing.com](http://benjaminting.com/) 
 <br>
 
 ### 🛠️ My Technology Stack:
