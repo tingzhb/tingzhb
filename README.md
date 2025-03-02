@@ -1,9 +1,9 @@
 ### Hello there! Benjamin Ting here!
-### I am a Software & Game Developer, Digital Marketer & Food Fanatic.
+### I am a Software & Game Developer, Tech Lead, Digital Marketer & Food Fanatic.
 - 😄 Pronouns: He/Him/His
 - 🌎 Location: Stockholm, Sweden & occasionally Singapore
 - 💼 Work:
-    - Software & Game Developer, Marketing Lead - We Know IT
+    - Software & Game Developer, Tech Lead - We Know IT Sweden AB
     - Chief Technical Officer - School on Cloud Asia 
 - 🏫 Education: Forsbergs Skola (2021 - 2023)
 - ☂️ Does not believe in umbrellas
