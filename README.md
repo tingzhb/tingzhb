@@ -1,5 +1,5 @@
-### Hello there! Benjamin Ting here!
-### I am a Software & Game Developer, Tech Lead, Digital Marketer & Food Fanatic.
+### Hello there! This is Ben.
+### Software & Game Developer, Tech Lead, Digital Marketer & Food Fanatic.
 - 😄 Pronouns: He/Him/His
 - 🌎 Location: Stockholm, Sweden & occasionally Singapore
 - 💼 Work:
