@@ -4,8 +4,9 @@
 - 🌎 Location: Stockholm, Sweden & occasionally Singapore
 - 💼 Work:
     - Software & Game Developer, Tech Lead - We Know IT Sweden AB
-    - Chief Technical Officer - School on Cloud Asia 
-- 🏫 Education: Forsbergs Skola (2021 - 2023)
+    - Chief Technical Officer - School on Cloud Asia
+    - Yes.
+- 🏫 Education: Forsbergs Skola, Raffles Design Institute.
 - ☂️ Does not believe in umbrellas
 <br>
 
